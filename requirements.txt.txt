@@ -1,0 +1,22 @@
+# Veri İşleme ve Analiz
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Görselleştirme
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# İstatistiksel Modeller ve Analiz
+statsmodels>=0.14.0
+scipy>=1.10.0
+
+# Makine Öğrenmesi Modelleri
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Zaman Serisi Tahminleme (Prophet)
+prophet>=1.1.0
+
+# Jupyter Ortamı
+ipykernel
+notebook
