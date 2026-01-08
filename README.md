@@ -1,7 +1,7 @@
 # Hibrit Modellerle Enerji Tüketim Analitiği
 Bu proje, elektrik tüketim ve üretim verilerini kullanarak enerji arz-talep dengesini analiz eden ve gelecekteki tüketim miktarlarını hibrit makine öğrenmesi modelleri ile tahmin eden kapsamlı bir analitik çalışmadır.
 
-##Proje Özeti
+## Proje Özeti
 - Türkiye (veya ilgili bölge) enerji şebekesinden alınan saatlik verilerle gerçekleştirilen bu çalışma, iki ana sütun üzerine inşa edilmiştir:
 - Keşifsel Veri Analizi (EDA): Kaynak bazlı üretim dağılımı, mevsimsel trendler ve anomali tespiti.
 - Tahminleme (Forecasting): İstatistiksel (ARIMA, Holt-Winters) ve modern (Prophet, XGBoost, Random Forest) modellerin yarıştırılarak en yüksek doğruluklu tahminin üretilmesi.
