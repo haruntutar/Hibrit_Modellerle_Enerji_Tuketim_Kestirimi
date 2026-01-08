@@ -19,7 +19,7 @@ Bu çalışmada, zaman serisi verilerinin karmaşıklığını çözmek için a�
 Görselleştirme: Matplotlib, Seaborn
 
 ### Tahmin Modelleri:
-Prophet: Facebook tarafından geliştirilen, mevsimselliğe dirençli tahminleme.
-ARIMA & Holt-Winters: Klasik istatistiksel zaman serisi yaklaşımları.
-XGBoost & Random Forest: Özellik mühendisliği (feature engineering) ile güçlendirilmiş regresyon modelleri.
-Anomali Tespiti: Scikit-learn IsolationForest
+Prophet: Facebook tarafından geliştirilen, mevsimselliğe dirençli tahminleme. 
+ARIMA & Holt-Winters: Klasik istatistiksel zaman serisi yaklaşımları. 
+XGBoost & Random Forest: Özellik mühendisliği (feature engineering) ile güçlendirilmiş regresyon modelleri. 
+Anomali Tespiti: Scikit-learn IsolationForest 
