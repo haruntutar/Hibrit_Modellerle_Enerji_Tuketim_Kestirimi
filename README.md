@@ -1,4 +1,4 @@
-# Hibrit Modellerle Enerji Tüketim Analitiği
+# Hibrit Modellerle Enerji Tüketim Kestrimi
 Bu proje, elektrik tüketim ve üretim verilerini kullanarak enerji arz-talep dengesini analiz eden ve gelecekteki tüketim miktarlarını hibrit makine öğrenmesi modelleri ile tahmin eden kapsamlı bir analitik çalışmadır.
 
 ## Proje Özeti
