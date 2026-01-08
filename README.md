@@ -23,8 +23,3 @@ Bu proje, elektrik tüketim ve üretim verilerini kullanarak enerji arz-talep de
 - ARIMA & Holt-Winters: Klasik istatistiksel zaman serisi yaklaşımları. 
 - XGBoost & Random Forest: Özellik mühendisliği (feature engineering) ile güçlendirilmiş regresyon modelleri. 
 - Anomali Tespiti: Scikit-learn IsolationForest 
-
-Model,RMSE,MAE,Durum
-Prophet,Hesaplanıyor,Hesaplanıyor,En İyi Mevsimsellik
-XGBoost,Hesaplanıyor,Hesaplanıyor,En İyi Trend Takibi
-ARIMA,Hesaplanıyor,Hesaplanıyor,Temel Performans
